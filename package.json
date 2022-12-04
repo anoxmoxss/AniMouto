@@ -21,7 +21,7 @@
     "regenerator-runtime": "0.13.7",
     "vue": "2.6.11",
     "vue-router": "3.4.1",
-    "webextension-polyfill": "0.6.0"
+    "webextension-polyfill": "0.10.0"
   },
   "devDependencies": {
     "@babel/core": "7.11.1",
