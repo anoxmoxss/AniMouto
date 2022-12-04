@@ -19,7 +19,7 @@
   "dependencies": {
     "marked": "1.1.1",
     "regenerator-runtime": "0.13.7",
-    "vue": "2.6.11",
+    "vue": "2.7.14",
     "vue-router": "3.4.1",
     "webextension-polyfill": "0.6.0"
   },
